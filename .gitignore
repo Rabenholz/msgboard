@@ -11,3 +11,7 @@
 *.lai
 *.la
 *.a
+
+# executible
+msgboard
+msgboard.exe
